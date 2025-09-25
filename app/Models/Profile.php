@@ -13,6 +13,7 @@ class Profile extends Model
         'last_name',
         'gender',
         'date_of_birth',
+        'country',
         'image',
         'specialization',
         'looking_for',
