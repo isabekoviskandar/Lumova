@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\AuthController;
 use App\Http\Controllers\LandingPageController;
 use Illuminate\Support\Facades\Route;
 
@@ -8,5 +9,4 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::get('/' , [LandingPageController::class, 'index']);
-Route::get('/about' , [LandingPageController::class, 'about']);
-Route::get('/features' , [LandingPageController::class, 'features']);
+Route::get('/register' , [AuthController::class , 'register']);
