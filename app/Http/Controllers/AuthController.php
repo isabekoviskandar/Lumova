@@ -20,11 +20,11 @@ class AuthController extends Controller
 
     public function login()
     {
-
+        return view('Auth.login');
     }
 
     public function verify()
     {
-        
+        return view('Auth.verify');
     }
 }

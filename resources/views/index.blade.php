@@ -585,13 +585,13 @@
         <div class="container">
             <div class="hero-content fade-in">
                 <div class="hero-badge">
-                    🚀 Built for Central Asia • Join 1,000+ creators
+                    🚀 Built for Global • Join 1,000+ creators
                 </div>
                 <h1>
                     Connect. Create. <span class="gradient-text">Collaborate.</span>
                 </h1>
                 <p>
-                    The platform where Central Asia's most ambitious creators, developers, and entrepreneurs find their perfect co-founders and bring game-changing ideas to life.
+                    The platform where World's most ambitious creators, developers, and entrepreneurs find their perfect co-founders and bring game-changing ideas to life.
                 </p>
                 <div class="hero-buttons">
                     <a href="#" class="btn btn-primary">
@@ -645,7 +645,7 @@
                 <div class="feature-card fade-in">
                     <div class="feature-icon">🌍</div>
                     <h3>Regional Focus</h3>
-                    <p>Connect with talent across Central Asia and tap into the region's growing entrepreneurial ecosystem.</p>
+                    <p>Connect with talent across Countries and tap into the region's growing entrepreneurial ecosystem.</p>
                 </div>
                 <div class="feature-card fade-in">
                     <div class="feature-icon">📊</div>
